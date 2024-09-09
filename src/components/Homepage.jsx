@@ -1,9 +1,8 @@
 const Homepage = () => {
   return (
-    <div>
-      
-    </div>
+    <div className="bg-red">
+      hello World  </div>
   )
 }
 
-export default Homepage
+export default Homepage;
